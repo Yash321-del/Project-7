@@ -32,7 +32,7 @@ st.set_page_config(
 # Load Trained Model
 # ------------------------------------------
 
-model = tf.keras.models.load_model("gender_model.keras")
+model = tf.keras.models.load_model("gender_model (1).keras")
 
 # ------------------------------------------
 # Title
