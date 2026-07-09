@@ -159,10 +159,10 @@ history = model.fit(
 # Save Model
 # ==========================================
 
-model.save("gender_model.keras")
+model.save("gender_model (1).keras")
 
 print("\nModel Saved Successfully!")
-print("File Name : gender_model.keras")
+print("File Name : gender_model (1).keras")
 
 # ==========================================
 # Evaluate Model
